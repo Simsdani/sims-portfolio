@@ -10,7 +10,6 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
   },
 
-  base: "/sims-portfolio",
  
   resolve: {
     alias: {
